@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to use the ASPxWebControl SetIECompatibilityModeEdge method in MVC applications
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4388)**
+**[[Run Online]](https://codecentral.devexpress.com/e4388/)**
 <!-- run online end -->
 
 
